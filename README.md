@@ -1,4 +1,4 @@
-# "An Introduction to Mechanics" by Kleppner and Kolenkow
+# Physics
 
 ## Definition of Mechanics
 
